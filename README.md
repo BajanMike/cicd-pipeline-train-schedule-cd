@@ -14,4 +14,4 @@ You can run the app with:
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
-So I have updated the Readme to trigger a commit - webhooks to jenkins will trigger a build, call gradle and run the build process. Nice!
+Will this trigger a new build?
